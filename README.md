@@ -45,5 +45,4 @@ And yes, the name is staying as Webby v3.
 ![Preview-2](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172517694.png)
 ![Preview-3](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172531277.png)
 ![Preview-4](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172539231.png)
-![Preview-5](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172539231.png)
-![Preview-6](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172551122.png)
+![Preview-5](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172551122.png)
