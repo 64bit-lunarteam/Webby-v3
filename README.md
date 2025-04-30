@@ -39,3 +39,11 @@ But now, with this one, you won't have to worry about downloading the files over
 And yes, the name is staying as Webby v3.
 
 `Webby v3 developed & created by CertifiedFish101`
+
+# PREVIEWS
+![Preview](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172501047.png)
+![Preview-2](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172517694.png)
+![Preview-3](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172531277.png)
+![Preview-4](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172539231.png)
+![Preview-5](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172539231.png)
+![Preview-6](https://github.com/64bit-lunarteam/Webby-v3/blob/main/image_2025-04-30_172551122.png)
